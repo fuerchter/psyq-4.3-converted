@@ -15,7 +15,7 @@
  * $PSLibId: Run-time Library Release 4.3$
  */
 
-#include <sys/types.h>
+#include <SYS/TYPES.H>
 
 /*
  * Macro 
